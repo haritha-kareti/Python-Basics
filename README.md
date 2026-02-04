@@ -175,6 +175,54 @@ print(student["name"])
 
 <hr>
 
+<h2>🔟 Set</h2>
+
+<p>
+A <b>set</b> is an <b>unordered collection</b> of <b>unique elements</b>.
+</p>
+
+<ul>
+  <li>Does NOT allow duplicate values</li>
+  <li>Unordered (no index)</li>
+  <li>Mutable (can add or remove items)</li>
+</ul>
+
+<h4>Example</h4>
+<pre>
+numbers = {1, 2, 3, 4, 4, 5}
+print(numbers)
+</pre>
+
+<h4>Output</h4>
+<pre>
+{1, 2, 3, 4, 5}
+</pre>
+
+<h4>Common Set Methods</h4>
+<ul>
+  <li><code>add()</code> – Add an element</li>
+  <li><code>remove()</code> – Remove an element</li>
+  <li><code>union()</code> – Combine sets</li>
+  <li><code>intersection()</code> – Common elements</li>
+</ul>
+
+<h4>Set Operations Example</h4>
+<pre>
+A = {1, 2, 3}
+B = {3, 4, 5}
+
+print(A.union(B))
+print(A.intersection(B))
+</pre>
+
+<h4>Output</h4>
+<pre>
+{1, 2, 3, 4, 5}
+{3}
+</pre>
+
+<hr>
+
 <h3>🎯 Purpose</h3>
 <ul>
   <li>Learn Python from scratch</li>
