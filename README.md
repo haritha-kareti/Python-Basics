@@ -26,7 +26,6 @@ price = 99.50
 </ul>
 </p>
 
-<img src="images/variables.png" alt="Variables in Python" width="500">
 
 <hr>
 
@@ -68,8 +67,6 @@ x = 10
 print(type(x))
 </pre>
 
-<img src="images/data_types.png" alt="Python Data Types" width="500">
-
 <hr>
 
 <h2>3️⃣ Operators</h2>
@@ -83,8 +80,6 @@ a = 10
 b = 3
 print(a + b)
 </pre>
-
-<img src="images/operators.png" alt="Python Operators" width="500">
 
 <hr>
 
@@ -103,8 +98,6 @@ A library is a collection of pre-written code used to perform common tasks.
 import math
 print(math.sqrt(16))
 </pre>
-
-<img src="images/library.png" alt="Python Library" width="500">
 
 <hr>
 
@@ -126,8 +119,6 @@ numbers = [1, 2, 3, 4]
 print(len(numbers))
 </pre>
 
-<img src="images/builtin_functions.png" alt="Built-in Functions" width="500">
-
 <hr>
 
 <h2>6️⃣ String</h2>
@@ -140,8 +131,6 @@ text = "Python"
 print(text.upper())
 print(text[0:3])
 </pre>
-
-<img src="images/string.png" alt="Python String" width="500">
 
 <hr>
 
@@ -156,8 +145,6 @@ fruits.append("orange")
 print(fruits)
 </pre>
 
-<img src="images/list.png" alt="Python List" width="500">
-
 <hr>
 
 <h2>8️⃣ Tuple</h2>
@@ -169,8 +156,6 @@ A tuple is an ordered but immutable collection.
 colors = ("red", "green", "blue")
 print(colors)
 </pre>
-
-<img src="images/tuple.png" alt="Python Tuple" width="500">
 
 <hr>
 
@@ -187,8 +172,6 @@ student = {
 }
 print(student["name"])
 </pre>
-
-<img src="images/dictionary.png" alt="Python Dictionary" width="500">
 
 <hr>
 
